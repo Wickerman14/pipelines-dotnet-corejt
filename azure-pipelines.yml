@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'Default'
+  name: 'ubuntu-latest'
 
 variables:
   buildConfiguration: 'Release'
